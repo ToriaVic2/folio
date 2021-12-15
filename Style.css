@@ -1,0 +1,40 @@
+#Cv {
+    background-color: ;
+    position: fixed;
+    color:#318CE7
+}
+
+.banner .highlight{
+    padding: 100px 557;
+    background:rgba(61, 60, 60, 0.7);
+    position:center;
+    color:white;
+    margin-top: 170px;
+}
+
+.banner h1 {
+    text-align: center;
+    color: skyblue;
+    font-size: 350%;
+}
+
+.banner H2 {
+text-align: center;
+color: snow;
+font-size: 200%;
+}
+
+.onglets a{
+text-align: center;
+color: rgb(14, 107, 79);
+font-size: 150%;
+text-decoration: none;
+padding-top: 0;
+margin-right: 20px;
+
+
+
+
+    
+
+

@@ -1,0 +1,46 @@
+
+
+
+.onglets a{
+text-decoration: none;
+text-align: left;
+color: rgb(3, 25, 49);
+
+}
+
+h1 {
+text-align: center;
+}
+
+.bubble-text{ background-color: rgb(121, 112, 102);     color: seashell; padding:7px 15px; border-radius:3px; width:1480px;}
+
+.bubble-text::after{
+content:""; 
+border-left:200px solid transparent;
+border-right:20px solid transparent;
+border-top: 20px solid rgb(121, 112, 102);
+position: absolute;
+}
+
+video {
+width: 100%;
+height: 90%;
+
+}
+
+.pho {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100;
+    text-align: center;
+    }
+
+
+
+}
+  
+  

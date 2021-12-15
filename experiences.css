@@ -1,0 +1,247 @@
+
+
+.slider img{
+    width: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+.slider img :hover{
+    transform: scale(1.1);
+}
+.slider h1{ 
+display: block;
+text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    top:10%;
+    left : 12%;
+    color: white;
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+}
+.slider h2{ 
+    display: block;
+    text-align: center;
+        font-weight: 600;
+        font-size: 30px;
+        top: 10%;
+        left : 37%;
+        color: white;
+        position: absolute;
+        transform: translate(-50%, -50%);
+    
+    }
+
+    .slider h3{ 
+        display: block;
+        text-align: center;
+            font-weight: 600;
+            font-size: 30px;
+            top:10%;
+            left : 62%;
+            color: white;
+            position: absolute;
+            transform: translate(-50%, -50%);
+        
+        }
+
+        .slider h4{ 
+            display: block;
+            text-align: center;
+                font-weight: 600;
+                font-size: 30px;
+                top:9%;
+                left : 87%;
+                color: white;
+                position: absolute;
+                transform: translate(-50%, -50%);
+            
+            }
+
+            h1 {
+            text-align: center;
+            }
+
+            .slider img{
+                width: 100%;
+                border-radius: 10px;
+                cursor: pointer;
+                transition: 1s;
+            }
+            .slider img :hover{
+                transform: scale(1.1);
+            }
+            .slide h1{ 
+            display: block;
+            text-align: center;
+                font-weight: 600;
+                font-size: 30px;
+                top:50%;
+                left : 12%;
+                color: white;
+                position: absolute;
+                transform: translate(-50%, -50%);
+            
+            }
+            .slide h2{ 
+                display: block;
+                text-align: center;
+                    font-weight: 600;
+                    font-size: 30px;
+                    top:50%;
+                    left : 37%;
+                    color: white;
+                    position: absolute;
+                    transform: translate(-50%, -50%);
+                
+                }
+            
+                .slide h3{ 
+                    display: block;
+                    text-align: center;
+                        font-weight: 600;
+                        font-size: 30px;
+                        top:50%;
+                        left : 62%;
+                        color: white;
+                        position: absolute;
+                        transform: translate(-50%, -50%);
+                    
+                    }
+            
+                    .slide h4{ 
+                        display: block;
+                        text-align: center;
+                            font-weight: 600;
+                            font-size: 30px;
+                            top:50%;
+                            left : 87%;
+                            color: white;
+                            position: absolute;
+                            transform: translate(-50%, -50%);
+                        
+                        }
+
+                        .slid h1{ 
+                            display: block;
+                            text-align: center;
+                                font-weight: 600;
+                                font-size: 30px;
+                                top:87%;
+                                left : 12%;
+                                color: white;
+                                position: absolute;
+                                transform: translate(-50%, -50%);
+                            
+                            }
+                            .slid h2{ 
+                                display: block;
+                                text-align: center;
+                                    font-weight: 600;
+                                    font-size: 30px;
+                                    top:87%;
+                                    left : 37%;
+                                    color: white;
+                                    position: absolute;
+                                    transform: translate(-50%, -50%);
+                                
+                                }
+                            
+                                .slid h3{ 
+                                    display: block;
+                                    text-align: center;
+                                        font-weight: 600;
+                                        font-size: 30px;
+                                        top:87%;
+                                        left : 62%;
+                                        color: white;
+                                        position: absolute;
+                                        transform: translate(-50%, -50%);
+                                    
+                                    }
+                            
+                                    .slid h4{ 
+                                        display: block;
+                                        text-align: center;
+                                            font-weight: 600;
+                                            font-size: 30px;
+                                            top:87%;
+                                            left : 87%;
+                                            color: white;
+                                            position: absolute;
+                                            transform: translate(-50%, -50%);
+                                        
+                                        }
+
+
+
+
+                   
+.slider{
+    position: relative;
+    margin-bottom: 30px;
+
+
+} 
+
+
+footer {
+flex-shrink: 0;
+border-top: 1px solid #BBD2E1 ;
+background-image:linear-gradient(#BBD2E1, white )
+
+}
+
+.contenu-footer{
+width: 1200px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+align-items: flex-start;
+font-size: 20px;
+padding: 50px 0 100;
+text-align: center;
+}
+
+.bloc {
+    width: 40%;
+    margin: 0 50px;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    }
+
+.v {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    float:right
+}
+
+.vi{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    float: center;
+}
+
+
+.p {
+    float: left;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+
+
